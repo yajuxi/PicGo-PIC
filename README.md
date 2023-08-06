@@ -1,0 +1,2 @@
+# PicGo-PIC
+save images
